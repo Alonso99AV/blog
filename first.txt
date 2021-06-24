@@ -1,5 +1,5 @@
-Este es el segundo archivo de prueba.
+Este es el primer archivo de prueba.
 
-Mi segundo archivo en un repositorio git. 
+Mi primer archivo en un repositorio git 
 
-Les mando un saludo.
+Esto es una segunda prueba del checkout
