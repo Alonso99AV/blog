@@ -1,0 +1,24 @@
+* [33m09a0521[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m Una version del hyperblog
+* [33m5a0f4f4[m Cambie el título del blogpost.
+*   [33m47811ee[m Merge branch 'master' of https://github.com/alonsalcala99/blog
+[32m|[m[33m\[m  
+[32m|[m * [33m759dc3c[m Initial commit
+*   [33m499a1a3[m Solucione el conflicto de las ramas al fusionar
+[34m|[m[35m\[m  
+[34m|[m * [33m14bf1c7[m[33m ([m[1;32mcabecera[m[33m)[m Modifiqué la cabecera y el color del texto
+* [35m|[m [33m15d9845[m Agregue suscripcion cambie cabecera maestra y puse todo azul
+[35m|[m[35m/[m  
+* [33me84fed6[m Volví a la tipografía Arial
+*   [33m2726364[m Combinación de cabecera con master
+[36m|[m[1;31m\[m  
+[36m|[m * [33madae11a[m Finalizada la cabecera con diseño azul
+[36m|[m * [33m1a15d9b[m Estructura inical de la cabecera
+* [1;31m|[m [33mb4bdfa3[m Agregado el contenido adicional del blog y un cambio en la tipogradía
+[1;31m|[m[1;31m/[m  
+* [33md46c394[m Commite al amster del blogpost en su versión mas reciente
+* [33mbbd65fe[m[33m ([m[1;33mtag: v0.1[m[33m)[m Remplazo de una versión por otra
+* [33ma81f122[m Envio de saludos
+* [33m68a469d[m Corección
+* [33me0e4e7b[m Arrancando mi proyecto con HTML y CSS
+* [33m69b246b[m Cambios hechos al archivo
+* [33m1e34d17[m Este es el primer commit de este archivo
